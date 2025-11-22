@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-Learning Web Developer
+Web developer in progress, focused on modern frontend technologies and clean UI. I learn by building real projects and improving a little bit every single day.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [nopiuoov520@gmail.com](mailto:nopiuoov520@gmail.com)
